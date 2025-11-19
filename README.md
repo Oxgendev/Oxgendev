@@ -31,6 +31,6 @@ Full‑Stack geliştiriciyim. FiveM (Lua) ve modern web teknolojileri (JavaScrip
 
 ## 📫 İletişim
 - LinkedIn: https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/
-- GitHub: https://github.com/HalloweenStore
+- GitHub: https://github.com/Oxgendev
 - E-posta: brenfrank827@gmail.com
 - Discord: oxgendev
