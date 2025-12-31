@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Oguzhan Salih
-**Full-Stack Developer | TypeScript • Node.js • React • Next.js**
+**Full-Stack Developer | TypeScript • Node.js • React • Next.js**  
+📍 Open to relocation — Sweden / EU
 
 <p align="left">
   <a href="https://github.com/Oxgendev">
@@ -13,125 +14,126 @@
 
 ---
 
-## 🚀 About Me
+## Profile
 
-I’m a **Full-Stack Developer** focused on **scalable backend systems**, **modern web applications**, and **real-time architectures**.
+Full-Stack Developer with a strong focus on **backend systems**, **database design**, and **scalable web applications**.
 
-I build:
-- ⚙️ High-performance server systems (event-driven, low-latency)
-- 🌐 Modern dashboards & admin panels
-- 🗄️ Well-designed databases with safe migrations, indexing, and caching
+I build production-ready systems where **performance**, **data safety**, and **long-term maintainability** are first-class concerns — not afterthoughts.
 
-I care about **performance**, **maintainability**, and **clean architecture** — not just “making it work”.
+Experienced in:
+- Designing REST APIs and real-time systems
+- Optimizing SQL/NoSQL databases
+- Building modern admin panels and dashboards
+- Shipping safely with CI/CD and versioned migrations
 
 ---
 
-## 🧰 Tech Stack
+## Core Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,lua" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" />
 </p>
 
-### 🔧 Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases & Cache
+### Databases & Cache
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### 🔗 ORM / Query
+### ORM / Query Layer
 <p>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
   <img src="https://img.shields.io/badge/Knex.js-E34F26?style=flat-square" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" />
 </p>
 
-### ⚙️ DevOps & Tooling
+### DevOps & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## Selected Projects
 
-### 🧩 FiveM Personal Scripts
-**Modular, low-tick, production-ready server scripts**
+### 🌐 Backend API Platform
+**Centralized REST API for server and user management**
 
-- Event-driven Lua architecture
-- Client–server validation & anti-cheat logic
-- Optimized tick usage
-- Clean folder structure & documentation
+- Clean service / controller separation
+- Redis caching with proper invalidation
+- PostgreSQL & MongoDB support
+- Dockerized local and production setup
 
-**Tech:** Lua, JavaScript, SQL, Redis  
-📌 QBCore / ESX compatible
-
----
-
-### 🌐 FiveM API
-**Centralized REST API for server & user management**
-
-- Authentication & role-based access
-- Redis caching layer
-- PostgreSQL / MongoDB support
-- Performance-focused endpoints
-
-**Tech:** Node.js, Express, PostgreSQL, MongoDB, Redis
+**Tech:** Node.js, TypeScript, Express, PostgreSQL, MongoDB, Redis
 
 ---
 
-### 📊 Next.js Dashboard
-**Modern admin panel for metrics & management**
+### 📊 Admin Dashboard
+**Modern SSR dashboard for metrics and system management**
 
-- SSR & API Routes
+- Next.js App Router & API Routes
+- Role-based authentication & authorization
 - Prisma / Knex migrations
-- Secure authentication flows
-- Clean UI with Tailwind
+- Clean and maintainable UI
 
 **Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL
 
 ---
 
-## 📈 Measurable Results
+### ⚡ Real-Time Systems
+**Event-driven server-side architectures**
 
-- ⚡ Tick optimization: **6.8ms → 3.1ms** (−54%)
-- 🚀 API latency (p95): **120ms → 70ms**
-- 🗄️ Database load: **−30–35%** with pooling & query tuning
-- 🔄 Deploy safety: **zero data loss** with versioned migrations
+- Client–server validation
+- State synchronization
+- Performance-focused Lua scripting
+- Low-latency event handling
+
+**Tech:** Lua, JavaScript, SQL, Redis  
+📌 Implemented in multiplayer server environments (FiveM / similar)
 
 ---
 
-## 🗂 Database & Migration Philosophy
+## Measurable Impact
 
-- **Schema Design:** normalized relations, unique/indexed identifiers, audit fields
-- **Migrations:** versioned & reversible (Prisma / Knex)
+- ⚡ Reduced server tick time: **6.8ms → 3.1ms** (−54%)
+- 🚀 Improved API latency (p95): **120ms → 70ms**
+- 🗄️ Lowered database load by **30–35%** via indexing & pooling
+- 🔄 Zero data loss across releases using versioned migrations
+
+---
+
+## Database & Migration Approach
+
+- **Schema Design:** normalized relations, unique & composite indexes, audit fields
+- **Migrations:** versioned, reversible flows (Prisma / Knex)
 - **Query Analysis:** `EXPLAIN / ANALYZE`, index tuning, N+1 prevention
 - **Caching:** read-heavy Redis layer with clear invalidation strategies
 - **Backups:** release-tagged dumps (`pg_dump`, `mysqldump`, `mongodump`)
 
 ---
 
-## 🧪 Quality & Workflow
+## Quality & Engineering Practices
 
-- ✅ CI pipelines (lint, test, build)
-- 🧹 Code quality (ESLint, luacheck)
-- 📝 Clear documentation & setup guides
-- 🔖 Semantic versioning & changelogs
+- CI pipelines for linting, testing, and builds
+- Code quality enforcement (ESLint, luacheck)
+- Clear documentation and setup guides
+- Semantic versioning and meaningful changelogs
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **GitHub:** https://github.com/Oxgendev
-- **LinkedIn:** https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/
-- **Email:** brenfrank827@gmail.com
+- **GitHub:** https://github.com/Oxgendev  
+- **LinkedIn:** https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/  
+- **Email:** brenfrank827@gmail.com  
 - **Discord:** oxgendev
