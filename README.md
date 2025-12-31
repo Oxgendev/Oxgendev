@@ -18,13 +18,28 @@
 
 Full-Stack Developer with a strong focus on **backend systems**, **database design**, and **scalable web applications**.
 
-I build production-ready systems where **performance**, **data safety**, and **long-term maintainability** are first-class concerns — not afterthoughts.
+I build production-ready systems where **performance**, **data safety**, and **long-term maintainability** are first-class concerns.
 
-Experienced in:
-- Designing REST APIs and real-time systems
-- Optimizing SQL/NoSQL databases
-- Building modern admin panels and dashboards
-- Shipping safely with CI/CD and versioned migrations
+---
+
+## 🧠 Most Used Languages & Technologies
+
+### Language Usage Overview
+
+| Language       | Usage Level | Context |
+|----------------|------------|--------|
+| TypeScript     | ⭐⭐⭐⭐⭐      | Backend APIs, Next.js, dashboards |
+| JavaScript     | ⭐⭐⭐⭐⭐      | Web, scripting, integrations |
+| Lua            | ⭐⭐⭐⭐☆      | Real-time & event-driven systems |
+| Python         | ⭐⭐⭐☆       | Automation, tooling, backend support |
+| SQL            | ⭐⭐⭐⭐⭐      | Data modeling, performance tuning |
+
+---
+
+### GitHub Language Activity (Auto)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=default" />
+</p>
 
 ---
 
@@ -57,10 +72,27 @@ Experienced in:
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" />
 </p>
 
-### DevOps & Tooling
+---
+
+## ⚙️ DevOps, OS & Tooling
+
+### Infrastructure & CI/CD
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
 </p>
+
+### OS & Terminal
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+| Tool / OS | Usage |
+|----------|-------|
+| Linux (Ubuntu/Debian) | Primary dev & server environment |
+| Bash / Shell          | Automation, deploy scripts |
+| Git                   | Feature-based workflows |
+| GitHub Actions        | CI pipelines (lint, test, build) |
+| Docker                | Local & production parity |
 
 ---
 
@@ -99,35 +131,35 @@ Experienced in:
 - Low-latency event handling
 
 **Tech:** Lua, JavaScript, SQL, Redis  
-📌 Implemented in multiplayer server environments (FiveM / similar)
+📌 Implemented in multiplayer server environments
 
 ---
 
-## Measurable Impact
+## 📈 Measurable Impact
 
 - ⚡ Reduced server tick time: **6.8ms → 3.1ms** (−54%)
 - 🚀 Improved API latency (p95): **120ms → 70ms**
-- 🗄️ Lowered database load by **30–35%** via indexing & pooling
+- 🗄️ Lowered database load by **30–35%**
 - 🔄 Zero data loss across releases using versioned migrations
 
 ---
 
 ## Database & Migration Approach
 
-- **Schema Design:** normalized relations, unique & composite indexes, audit fields
-- **Migrations:** versioned, reversible flows (Prisma / Knex)
-- **Query Analysis:** `EXPLAIN / ANALYZE`, index tuning, N+1 prevention
-- **Caching:** read-heavy Redis layer with clear invalidation strategies
-- **Backups:** release-tagged dumps (`pg_dump`, `mysqldump`, `mongodump`)
+- Schema design with normalized relations & composite indexes
+- Versioned, reversible migrations (Prisma / Knex)
+- Query tuning via `EXPLAIN / ANALYZE`
+- Redis caching with clear invalidation strategies
+- Release-tagged backups (`pg_dump`, `mysqldump`, `mongodump`)
 
 ---
 
-## Quality & Engineering Practices
+## Engineering Practices
 
-- CI pipelines for linting, testing, and builds
-- Code quality enforcement (ESLint, luacheck)
-- Clear documentation and setup guides
-- Semantic versioning and meaningful changelogs
+- Feature-based branching (`feature/*`, `fix/*`)
+- Conventional commits
+- CI-driven quality gates
+- Semantic versioning & changelogs
 
 ---
 
