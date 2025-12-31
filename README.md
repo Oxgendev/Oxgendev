@@ -38,7 +38,7 @@ I build production-ready systems where **performance**, **data safety**, and **l
 
 ### GitHub Language Activity (Auto)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=donut&theme=radical" />
 </p>
 
 ---
