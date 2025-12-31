@@ -1,171 +1,185 @@
-# 👋 Hi, I'm Oguzhan Salih
-**Full-Stack Developer | TypeScript • Node.js • React • Next.js**  
-📍 Open to relocation — Sweden / EU
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm Oguzhan Salih</h1>
 
-<p align="left">
+<h3 align="center">
+  Full-Stack Developer · TypeScript · Node.js · React · Next.js
+</h3>
+
+<p align="center">
+  📍 Open to relocation — Sweden / EU
+</p>
+
+<p align="center">
   <a href="https://github.com/Oxgendev">
-    <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Relocation%20%7C%20Sweden-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Relocation-Sweden%20%7C%20EU-success?style=for-the-badge" />
 </p>
 
 ---
 
-## Profile
+## 🧑‍💻 Profile
 
-Full-Stack Developer with a strong focus on **backend systems**, **database design**, and **scalable web applications**.
+Full-Stack Developer focused on **backend engineering**, **database architecture**, and **scalable web systems**.
 
-I build production-ready systems where **performance**, **data safety**, and **long-term maintainability** are first-class concerns.
+I build production-grade software where:
+- ⚡ performance matters
+- 🗄️ data safety is non-negotiable
+- 🧱 architecture is designed for long-term growth
 
----
-
-## 🧠 Most Used Languages & Technologies
-
-### Language Usage Overview
-
-| Language       | Usage Level | Context |
-|----------------|------------|--------|
-| TypeScript     | ⭐⭐⭐⭐⭐      | Backend APIs, Next.js, dashboards |
-| JavaScript     | ⭐⭐⭐⭐⭐      | Web, scripting, integrations |
-| Lua            | ⭐⭐⭐⭐☆      | Real-time & event-driven systems |
-| Python         | ⭐⭐⭐☆       | Automation, tooling, backend support |
-| SQL            | ⭐⭐⭐⭐⭐      | Data modeling, performance tuning |
+Experienced with real-world systems, not just demos.
 
 ---
 
-### GitHub Language Activity (Auto)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=donut&theme=radical" />
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&langs_count=10" />
 </p>
 
 ---
 
-## Core Tech Stack
+## 🧰 Core Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,lua" />
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" />
+- Strong foundation in **algorithms & data structures**
+- Time & space complexity awareness
+- Clean and readable problem-solving style
+
+---
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,jquery" />
 </p>
 
-### Backend
-<p>
+- React
+- Next.js (SSR, API Routes)
+- Vue
+- HTML5 / HTML3
+- CSS3
+- jQuery
+
+---
+
+### 🔧 Backend
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases & Cache
-<p>
+- REST API design
+- Authentication & authorization
+- Real-time & event-driven systems
+
+---
+
+### 🗄️ Databases & Cache
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### ORM / Query Layer
-<p>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
-  <img src="https://img.shields.io/badge/Knex.js-E34F26?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" />
+- PostgreSQL (primary)
+- MySQL
+- MongoDB
+- Redis
+- pgAdmin for database management
+
+---
+
+### 🧩 ORM / Query Layer
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚙️ DevOps, OS & Tooling
+## ⚙️ DevOps · OS · Tooling
 
-### Infrastructure & CI/CD
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" />
 </p>
 
-### OS & Terminal
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-| Tool / OS | Usage |
-|----------|-------|
-| Linux (Ubuntu/Debian) | Primary dev & server environment |
-| Bash / Shell          | Automation, deploy scripts |
-| Git                   | Feature-based workflows |
-| GitHub Actions        | CI pipelines (lint, test, build) |
-| Docker                | Local & production parity |
+| Area | Tools |
+|----|------|
+| OS | Ubuntu / Linux |
+| Terminal | Bash |
+| Version Control | Git / GitHub |
+| CI/CD | GitHub Actions |
+| Containers | Docker |
 
 ---
 
-## Selected Projects
+## 🌟 Selected Projects
 
 ### 🌐 Backend API Platform
-**Centralized REST API for server and user management**
+**Centralized REST API for system & user management**
 
-- Clean service / controller separation
-- Redis caching with proper invalidation
+- Clean service/controller separation
+- Redis caching with safe invalidation
 - PostgreSQL & MongoDB support
-- Dockerized local and production setup
+- Dockerized environments
 
-**Tech:** Node.js, TypeScript, Express, PostgreSQL, MongoDB, Redis
+**Tech:** Node.js · TypeScript · Express · PostgreSQL · Redis
 
 ---
 
 ### 📊 Admin Dashboard
-**Modern SSR dashboard for metrics and system management**
+**Modern SSR dashboard for metrics & management**
 
-- Next.js App Router & API Routes
-- Role-based authentication & authorization
+- Next.js App Router
+- Role-based access control
 - Prisma / Knex migrations
-- Clean and maintainable UI
+- Maintainable UI architecture
 
-**Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL
+**Tech:** Next.js · React · TypeScript · PostgreSQL
 
 ---
 
 ### ⚡ Real-Time Systems
-**Event-driven server-side architectures**
+**Event-driven, low-latency architectures**
 
 - Client–server validation
 - State synchronization
-- Performance-focused Lua scripting
-- Low-latency event handling
+- Lua-based performance scripting
+- Redis-backed messaging
 
-**Tech:** Lua, JavaScript, SQL, Redis  
-📌 Implemented in multiplayer server environments
+**Tech:** Lua · JavaScript · SQL · Redis
 
 ---
 
 ## 📈 Measurable Impact
 
-- ⚡ Reduced server tick time: **6.8ms → 3.1ms** (−54%)
-- 🚀 Improved API latency (p95): **120ms → 70ms**
-- 🗄️ Lowered database load by **30–35%**
-- 🔄 Zero data loss across releases using versioned migrations
+- ⚡ Server tick optimization: **6.8ms → 3.1ms**
+- 🚀 API latency (p95): **120ms → 70ms**
+- 🗄️ Database load reduction: **30–35%**
+- 🔄 Zero data loss across releases
 
 ---
 
-## Database & Migration Approach
-
-- Schema design with normalized relations & composite indexes
-- Versioned, reversible migrations (Prisma / Knex)
-- Query tuning via `EXPLAIN / ANALYZE`
-- Redis caching with clear invalidation strategies
-- Release-tagged backups (`pg_dump`, `mysqldump`, `mongodump`)
-
----
-
-## Engineering Practices
+## 🧱 Engineering Practices
 
 - Feature-based branching (`feature/*`, `fix/*`)
 - Conventional commits
-- CI-driven quality gates
-- Semantic versioning & changelogs
+- CI-enforced quality gates
+- Semantic versioning
+- Clear changelogs & documentation
 
 ---
 
-## Contact
+## 📫 Contact
 
-- **GitHub:** https://github.com/Oxgendev  
-- **LinkedIn:** https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/  
-- **Email:** brenfrank827@gmail.com  
-- **Discord:** oxgendev
+<p align="left">
+  <a href="https://github.com/Oxgendev">🐙 GitHub</a><br/>
+  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">💼 LinkedIn</a><br/>
+  📧 Email: brenfrank827@gmail.com<br/>
+  💬 Discord: oxgendev
+</p>
